@@ -19,13 +19,13 @@ Materials: Instruction manuals
 ## Phase 3: Incident
 (during 5 minutes when phase 2 people are out of room)
 Participant: A person with high company tenture, for each team, with a laptop.
-Instructions: You are IMOC. You will join your team and start an incident in spy and on the status page. Create a slack channel and do  `spy incident local`. Use the “Shopify Testing” status page account. There will be a template for the lego service.
+Instructions: You are incident commander. You will join your team and start an incident in the established communications channel used by your company. If possible, also use a test instance of your status page that can be used for external communications.
 Materials: Laptop.
-Setup: Create a template for lego service outage on test status page
+Setup: Establish comms channel and test status page
 
 ## Phase 4: Identified
 Participant: Someone who works remotely for each team.
-Instructions: You are a legoscale team member who maintains the team playbooks. Once your team updates the status page with the set name, take the instruction manual down to the team and join in the response/construction. Make sure the team updates the spy incident when new participants join or when major discoveries are made.
+Instructions: You are a legoscale team member who maintains the team playbooks. Once your team updates the status page with the set name, take the instruction manual down to the team and join in the response/construction. Make sure the team updates the incident when new participants join or when major discoveries are made.
 Materials: Instruction manuals
 Setup: One organizer needs to watch the status page and dispatch legoscale team members once their set is identified.
 
@@ -43,4 +43,4 @@ Materials: All remaining parts bags.
 Bad news! Some of the resources were mislabeled and applied to the wrong cluster. One parts bag in each box is in the wrong set. One person from each team should return to the briefing room with that bag and swap with others to make sure they have the right bag.
 
 ## Phase 7: Fixing
-All teams work to restore service for their service (build their lego kit). Once complete, mark the status page resolved and end the spy incident. Create a draft service disruption but do NOT publish it.
+All teams work to restore service for their service (build their lego kit). Once complete, mark the status page resolved and end the incident in your company incident comms channel.

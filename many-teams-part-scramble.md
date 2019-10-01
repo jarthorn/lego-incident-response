@@ -1,4 +1,4 @@
-This is a simple exercise for a large group. You will end up with groups of ~8 people per group. Membership will be scrambled which helps participant get to know more team members they don't usually work with.
+This is a simple exercise for a large group. You will end up with groups of about 8 people per group. Membership will be scrambled which helps participant get to know more team members they don't usually work with.
 
 Steps:
 
